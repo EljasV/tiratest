@@ -1,5 +1,7 @@
 #include <iostream>
 
 int main(){
-	std::cout << "aaaa" << std::endl;
+	while(true){
+		std::cout << "aaaa" << std::endl;
+	}
 }
