@@ -2,6 +2,6 @@
 
 int main(){
 	while(true){
-		std::cout << "a2a3" << std::endl;
+		std::cout << "MOVE: a2a3" << std::endl;
 	}
 }
